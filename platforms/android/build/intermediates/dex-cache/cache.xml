@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-23.4.0_484774bc81fa70d670d953a67380cf8f5d1b7668.jar" />
+    </item>
+    <item
+        jar="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-23.4.0_cd38940089d1c9ffb9f9e498b0f3467aebed48ad.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-23.4.0_cff744a20a183c3ee3bde7040286b1eb5bb3626e.jar" />
+    </item>
+    <item
+        jar="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-23.4.0_5442c565e428e806caef7f1b53b7e1720dc82c38.jar" />
+    </item>
+    <item
+        jar="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-23.4.0_3fb72181fb86b2429ec2b9754461230709f6e728.jar" />
+    </item>
+    <item
+        jar="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-23.4.0_6593287e3af19d2028ef26c501b0126c8e01a21b.jar" />
+    </item>
+    <item
+        jar="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/exploded-aar/MemberDirectory/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_a2ee9b795bf8b00dcfc55d126375281139003bcf.jar" />
+    </item>
+    <item
+        jar="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-23.4.0_ffb9968b8aaca18bc165ad5535556c42016576c7.jar" />
+    </item>
+    <item
+        jar="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/exploded-aar/MemberDirectory/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/pre-dexed/F0/debug/MemberDirectory-runtime-unspecified_3be69fa968f123b68065012d1f1b90274108ef91.jar" />
+    </item>
+    <item
+        jar="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-23.4.0_8a63418850512cda7dc3c5d169bfa5849b9559ed.jar" />
+    </item>
+    <item
+        jar="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="/Users/traciewamsley/Documents/experiments/NativeScript/MemberDirectory/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_b47dd92e3876b681a4561866100e453515c396ff.jar" />
+    </item>
+
+</items>

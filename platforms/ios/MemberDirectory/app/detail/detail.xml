@@ -1,0 +1,12 @@
+<Page loaded="loaded">
+	<Page.actionBar>
+	    <ActionBar title="{{ name }}">
+	    	<NavigationButton text="Back" android.systemIcon="ic_menu_back" tap="back"/>
+	    </ActionBar>
+	</Page.actionBar>
+	<StackLayout>
+		<Image id="img" width="150px" height="200px" stretch="aspectFill" src="{{ img }}" />
+		<Label id="title" text="{{ title }}" textWrap="true" />
+		<Label id="phone" text="{{ phone }}" />
+	</StackLayout>
+</Page>

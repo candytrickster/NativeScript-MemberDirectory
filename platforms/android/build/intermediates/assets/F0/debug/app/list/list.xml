@@ -1,0 +1,20 @@
+<Page loaded="loaded">
+	<Page.actionBar>
+	    <ActionBar title="Utah Officials">
+	    </ActionBar>
+	</Page.actionBar>
+	<StackLayout>
+		<!-- <Button text="Get list" height="50px" style="width:300px;border:none;font-size:20px;" tap="beers" /> -->
+		<ListView items="{{ memberList }}" height="100%">
+		    <ListView.itemTemplate>
+		    	<StackLayout id="{{ name }}" orientation="horizontal" tap="goToDetail">
+		    		<Image id="img" width="60px" height="130px" stretch="aspectFill" src="{{ img }}" />
+			    	<StackLayout orientation="vertical">
+				        <Label id="name" text="{{ name }}" class="beerName" />
+				        <Label id="title" text="{{ title }}" textWrap="true" />
+			    	</StackLayout>
+		    	</StackLayout>
+		    </ListView.itemTemplate>
+	    </ListView>
+	</StackLayout>
+</Page>

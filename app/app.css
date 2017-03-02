@@ -1,0 +1,10 @@
+@import "nativescript-theme-core/css/core.light.css";
+
+/* Your CSS goes here */
+.avenir {
+	font-family: "Avenir";
+}
+
+.sans {
+	font-family: "OpenSans-Light";
+}

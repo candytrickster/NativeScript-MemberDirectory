@@ -1,0 +1,7 @@
+<Page loaded="loaded">
+	<Page.actionBar>
+	    <ActionBar title="{{ id }}">
+	    	<NavigationButton text="Back" android.systemIcon="ic_menu_back" tap="back"/>
+	    </ActionBar>
+	</Page.actionBar>
+</Page>
